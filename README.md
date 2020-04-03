@@ -19,7 +19,7 @@ Steps to start developing over this code:
     >>> print(get_random_secret_key())
     ```
 
-    Store the secret key generated on a .env as `SECRET_KEY` file and it will be loaded in the settings.py.
+    Store the secret key generated on a `.env` file as `SECRET_KEY` and it will be loaded by the settings.py.
 
 3. Create the Database:
 
@@ -27,7 +27,7 @@ Steps to start developing over this code:
 
     ```python
     cd ./my_website
-    python3 manage.py runserver.
+    python3 manage.py runserver
     ```
 
     If everything is fine you will see the below warning message:
