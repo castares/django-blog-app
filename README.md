@@ -1,6 +1,6 @@
 # Django Blog App Prototype
 
-This is a prototype of a Blog App built on Django 3.0 with Bootstrap.
+This is a prototype of a Blog App built with Django 3.0 and Bootstrap.
 
 Steps to start developing over this code:
 
@@ -23,7 +23,7 @@ Steps to start developing over this code:
 
 3. Create the Database:
 
-    To make sure everything is ok at this point, I recommend to start the development server. Again, from the project directory:
+    To make sure everything is ok at this point, I recommend starting the development server. Again, from the project directory:
 
     ```python
     cd ./my_website
@@ -45,4 +45,4 @@ Steps to start developing over this code:
 
     Running the development server again should let you access the app on your machine. To access the /admin section you will have to create a superuser.
 
-This App has been created following the [Django Course by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p), which I totally recommend if you are starting with Django.
+This App has been created following the [Django Course by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p), which I recommend if you are starting with Django.
